@@ -11,7 +11,7 @@
 - 💡 Future Goals: Master offensive security, improve my Red Team skills, and contribute to open-source security tools.
 - ⚡ Fun fact: I enjoy solving CTF challenges and exploring new attack vectors
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
 
 
 ---

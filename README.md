@@ -1,7 +1,8 @@
 
 # Hi there, I'm Youssef - [Abass][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" alt="Hacker GIF" height="160px" src="https://media.giphy.com/media/PUT-YOUR-HACKER-GIF-URL-HERE/giphy.gif" />
+<img align="right" alt="Hacker GIF" height="160" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFoYW92MHRiOGk2ZjZjdmlwb215ZGo2ZXlzbW5vYnZ1bjZucnZxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" />
+
 
 
 ## I'm a Computer Science and Engineering Student  

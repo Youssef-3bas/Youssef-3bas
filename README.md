@@ -1,16 +1,15 @@
 
 # Hi there, I'm Youssef - [Abass][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" alt="GIF" height="160px" src=["[https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif](https://giphy.com/gifs/ChesterAbstract-code-coding-coded-EZr27ZbJwmjE9PGyLN](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJyZ280ZGZhcXkzdG9wYjdnMWZvZjZ0Mmd2cnVicjR6YnVleXZ0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif))" />
+<img align="right" alt="Hacker GIF" height="160px" src="https://media.giphy.com/media/PUT-YOUR-HACKER-GIF-URL-HERE/giphy.gif" />
+
 
 ## I'm a Computer Science and Engineering Student  
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
-
----
+- I’m currently focusing on Cybersecurity and Red Teaming.
+- 🎯 I’m learning penetration testing and preparing for certifications like eJPT and OSCP.
+- 💡 Future Goals: Master offensive security, improve my Red Team skills, and contribute to open-source security tools.
+- ⚡ Fun fact: I enjoy solving CTF challenges and exploring new attack vectors
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 

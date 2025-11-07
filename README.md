@@ -13,10 +13,6 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Spotify Playing 🎧
-
-[![Spotify]([https://novatorem.bgstatic.vercel.app/api/spotify](https://spotify-recently-played-readme.vercel.app/api?user=312egprxrbpl76nbyu74qllfwsyq))]([https://open.spotify.com/user/11153360645](https://open.spotify.com/user/312egprxrbpl76nbyu74qllfwsyq
-))
 
 ---
 

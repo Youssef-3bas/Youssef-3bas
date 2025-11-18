@@ -7,7 +7,7 @@
 ## I'm a Computer Science and Engineering Student  
 
 # 💫 About Me:
--👨‍💻 I’m currently focusing on Cybersecurity and Red Teaming.<br>- 🎯 I’m learning penetration testing and preparing for certifications like eJPT and OSCP.<br>- 💡 Future Goals: Master offensive security, improve my Red Team skills, and contribute to open-source security tools.<br>- ⚡ Fun fact: I enjoy solving CTF challenges and exploring new attack vectors<br>
+- 👨‍💻I’m currently focusing on Cybersecurity and Red Teaming.<br>- 🎯 I’m learning penetration testing and preparing for certifications like eJPT and OSCP.<br>- 💡 Future Goals: Master offensive security, improve my Red Team skills, and contribute to open-source security tools.<br>- ⚡ Fun fact: I enjoy solving CTF challenges and exploring new attack vectors<br>
 
 
 ## 🌐 Socials:
